@@ -49,7 +49,7 @@ A modern, premium, dark-mode personal portfolio website crafted for **Manveer Si
 
 You do not need Node.js or any build tools to run this website.
 
-1. Simply double-click `index.html` in your file explorer.
+1. Simply double-click `[index.html](https://mxnvrrr.github.io/Portfolio/)` in github pages.
 2. It will open instantly in your default web browser (Google Chrome, Microsoft Edge, Safari, Firefox).
 3. All interactive features (animations, modals, filter buttons, clipboard copy) work right out of the box.
 
